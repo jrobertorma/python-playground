@@ -1,0 +1,37 @@
+=========================================================================================================
+
+2005-08-02 09:54:26 <originating.sender@example.com> ... sent 11868 bytes from qp 22591
+
+2005-08-02 09:54:26 + members@host.example.org ... success: ezmlm-store: info: qp 22598
+
+2005-08-02 09:54:26 end (1+0+0)
+
+=========================================================================================================
+
+2005-08-02 09:54:26 <members@host.example.org > ... resent 13757 bytes from qp 22598
+
+2005-08-02 09:54:26 + admin@host.example.org ... success: did 0+2+0 drops to qp 22612
+
+2005-08-02 09:54:26 + listmoderator@host.example.org ... success: did 1+0+0 drops
+
+2005-08-02 09:54:30 end (2+0+0)
+
+=========================================================================================================
+
+2005-08-02 09:54:26 <members@host.example.org > ... resent 13872 bytes from qp 22612
+
+2005-08-02 09:54:27 + approving.moderator@example.com ... success: XXX.XXX.XXX.XXX accepted message.
+
+2005-08-02 09:54:28 + other.moderator@example.com ... success: XXX.XXX.XXX.XXX accepted message.
+
+2005-08-02 09:54:33 end (2+0+0)
+
+=========================================================================================================
+
+2005-08-02 09:55:37 <approving.moderator@example.com> ... sent 2534 bytes from qp 23052
+
+2005-08-02 09:55:37 + ACCEPT 1123001666.22596 ... <extra info>
+
+2005-08-02 09:55:37 + members-accept@host.example.org ... success: ezmlm-send: info: qp 23057
+
+2005-08-02 09:55:37 end (1+0+0)
